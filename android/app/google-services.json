@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36278065677",
+    "project_id": "drivedemo-a3298",
+    "storage_bucket": "drivedemo-a3298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36278065677:android:bb80a4f298f9e481445344",
+        "android_client_info": {
+          "package_name": "com.example.drive_upload_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36278065677-1hqmkv0rfbqf617ghl787e852o3h4a0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZ97Yr37_Ym26hF_-ypMJfFJ6ipg7I2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36278065677-1hqmkv0rfbqf617ghl787e852o3h4a0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
